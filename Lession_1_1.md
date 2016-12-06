@@ -4,7 +4,7 @@
 1. Install [Anaconda (v4.20 64bit, Python 3.5.2 used)](https://www.continuum.io/downloads)
 2. Install [CUDA 8.0](https://developer.nvidia.com/cuda-downloads)
 3. Install [cuDNN for CUDA 8.0](https://developer.nvidia.com/cudnn). After you downloaded the file, copy all the files to the CUDA installation directory (default is at *C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0*)
-4. Now, open a new console (CMD or PowerShell) and install **TensorFlow** using *pip*
+4. Now, open a new console (CMD or PowerShell) and install **TensorFlow** using *pip*. Please install both the CPU **AND** GPU version.
 ```bash
 pip install tensorflow # CPU Version
 
