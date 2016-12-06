@@ -11,7 +11,9 @@ pip install tensorflow # CPU Version
 ```bash
 pip install tensorflow-gpu # GPU Version
 ```
-[5] Once you successfully installed **TensorFlow** package, you can start testing it. If everything's fine, you should be able to run the HelloWorld script below:
+
+## Hello World Script
+Once you successfully installed **TensorFlow** package, you can start testing it. If everything's fine, you should be able to run the HelloWorld script below:
 ```python
 # Import TensorFlow Library
 import tensorflow as tf
