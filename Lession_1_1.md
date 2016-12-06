@@ -1,5 +1,4 @@
-# TensorFlowLearning
-Learning notes of TensorFlow package.
+# Lesson 1 TensorFlow Setup and Basic Operations
 
 ## TensorFlow Installation (Windows 10)
 1. Install [Anaconda (v4.20 64bit, Python 3.5.2 used)](https://www.continuum.io/downloads)
@@ -12,7 +11,7 @@ pip install tensorflow # CPU Version
 ```bash
 pip install tensorflow-gpu # GPU Version
 ```
-5. Once you successfully installed **TensorFlow** package, you can start testing it. If everything's fine, you should be able to run the HelloWorld script below:
+[5] Once you successfully installed **TensorFlow** package, you can start testing it. If everything's fine, you should be able to run the HelloWorld script below:
 ```python
 # Import TensorFlow Library
 import tensorflow as tf
