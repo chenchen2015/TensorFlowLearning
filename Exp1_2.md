@@ -1,7 +1,8 @@
-# Example 2 Basic Operations
-
-## Script ([Notebook](https://github.com/chenchen2015/TensorFlowLearning/blob/master/Notebooks/Exp1_1.ipynb))
-Once you successfully installed **TensorFlow** package, you can start testing it. If everything's fine, you should be able to run the HelloWorld script below:
+# Example 2 Basic Operations ([Notebook](https://github.com/chenchen2015/TensorFlowLearning/blob/master/Notebooks/Exp1_1.ipynb))
+In this example I tried to go through some of the basic operations in TensorFlow including:
+- Defining variables and do some basic math with them
+- Print the result using Python 3 style print function
+Note that all the code are tested and meant for **Python 3.5.2**.:
 ```python
 # Import TensorFlow Library
 import tensorflow as tf
