@@ -1,4 +1,4 @@
-# Lesson 1 TensorFlow Setup and Basic Operations
+# Example 1 TensorFlow Setup and Basic Operations
 
 ## TensorFlow Installation (Windows 10)
 1. Install [Anaconda (v4.20 64bit, Python 3.5.2 used)](https://www.continuum.io/downloads)
